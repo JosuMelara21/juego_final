@@ -1,2 +1,2 @@
 # juego_final
-Juego para el Registro #3 de Algoritmos y Logica Computacional
+Proyecto de un juego en 2D creado con python y utilizando pygame, para el grupo #8, correspondiente al parcial del registro #3 de Algoritmos y Logica Computacional
